@@ -1,0 +1,33 @@
+.fa {
+    font-size: 24px;
+    color:black;
+    }
+
+body {
+    overflow-x: hidden;
+    background-image: url(https://media.istockphoto.com/id/1204765474/photo/abstract-red-backgrounds.jpg?b=1&s=170667a&w=0&k=20&c=yW-rl_IoOPibDUNFEABWmHTHUBechFX2SVLOWjEjJs4=);
+    background-size: 900px;
+}
+
+.social-icons {
+display: flex;
+justify-content: space-between;
+width: 100px;
+
+}
+
+.iconwhite {
+  color: white;
+}
+
+.social-icons a {
+margin: 0 5px;
+font-size: 24px
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    color:white;
+    }
